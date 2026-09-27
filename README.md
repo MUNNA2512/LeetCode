@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MUNNA2512/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/MUNNA2512/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/MUNNA2512/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MUNNA2512/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MUNNA2512/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/MUNNA2512/LeetCode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
