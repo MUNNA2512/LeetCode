@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MUNNA2512/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/MUNNA2512/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MUNNA2512/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2540-minimum-common-value](https://github.com/MUNNA2512/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/MUNNA2512/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/MUNNA2512/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MUNNA2512/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2540-minimum-common-value](https://github.com/MUNNA2512/LeetCode/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MUNNA2512/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/MUNNA2512/LeetCode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MUNNA2512/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/MUNNA2512/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
